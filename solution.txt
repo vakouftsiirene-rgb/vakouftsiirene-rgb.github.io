@@ -1,6 +1,6 @@
 https://vakouftsiirene-rgb.github.io/
 $ cat solution.txt
-byte0: i_wanna_be
+byte0: treasure
 
 byte2: grep_and_you_will_find
 byte3: programmers
