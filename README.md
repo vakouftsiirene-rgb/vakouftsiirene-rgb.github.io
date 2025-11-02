@@ -13,3 +13,4 @@ byte9: cat /home/byte9/-        filepaths_are_handy
 byte10: sort names.txt | head -n 42
 byte11: sort births.txt | uniq -c | sort -nr | head -n 1
 byte12: which tuxsay
+byte13: git log
