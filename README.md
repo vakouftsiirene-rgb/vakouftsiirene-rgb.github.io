@@ -7,3 +7,12 @@ byte0: byte0@ip-172-31-37-131:~/i_wanna_be/the_very_best/no_one_ever_was/to_catc
 byte2: grep "will find" shakespeare.txt
 byte3: diff shakespeare.txt shakespeare.modified.txt
 byte4: byte4@ip-172-31-37-131:~/maze/left/right/8$ ./cup.txt
+byte5: byte5@ip-172-31-37-131:~$ cd /tmp
+byte5@ip-172-31-37-131:/tmp$ mkdir eirini
+byte5@ip-172-31-37-131:/tmp$ cp byte5.c eirini
+byte5@ip-172-31-37-131:/tmp$ cd eirini
+byte5@ip-172-31-37-131:/tmp/eirini$ ls
+byte5.c
+byte5@ip-172-31-37-131:/tmp/eirini$ gcc -o byte5 byte5.c
+byte5@ip-172-31-37-131:/tmp/eirini$ ./byte5
+Usage: ./byte5 <SDI>
