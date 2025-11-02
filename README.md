@@ -5,26 +5,11 @@ byte0: byte0@ip-172-31-37-131:~/i_wanna_be/the_very_best/no_one_ever_was/to_catc
 byte2: grep "will find" shakespeare.txt
 byte3: diff shakespeare.txt shakespeare.modified.txt
 byte4: byte4@ip-172-31-37-131:~/maze/left/right/8$ ./cup.txt
-byte5: byte5@ip-172-31-37-131:~$ cd /tmp
-byte5@ip-172-31-37-131:/tmp$ mkdir eirini
-byte5@ip-172-31-37-131:/tmp$ cp byte5.c eirini
-byte5@ip-172-31-37-131:/tmp$ cd eirini
-byte5@ip-172-31-37-131:/tmp/eirini$ ls
-byte5.c
-byte5@ip-172-31-37-131:/tmp/eirini$ gcc -o byte5 byte5.c
-byte5@ip-172-31-37-131:/tmp/eirini$ ./byte5
-Usage: ./byte5 <SDI>
-byte6: byte6@ip-172-31-37-131:/tmp$ unzip byte6.zip
-Archive:  byte6.zip
-replace byte6.txt? [y]es, [n]o, [A]ll, [N]one, [r]ename: A
- extracting: byte6.txt
-byte6@ip-172-31-37-131:/tmp$ cat byte6.txt
-unzipping_is_a_piece_of_cake
-byte7:byte7@ip-172-31-37-131:/tmp$ tar -xzvf byte7.tar.gz
-byte7.txt
-byte7@ip-172-31-37-131:/tmp$ cat byte7.txt
-tar_jokes_cant_stick 
+byte5: byte5@ip-172-31-37-131:~$ cd /tmp       tmp$ mkdir eirini   p byte5.c eirini       cd eirini        gcc -o byte5 byte5.c       Usage: ./byte5 <SDI>
+byte6: byte6@ip-172-31-37-131:/tmp$ unzip byte6.zip           cat byte6.txt        unzipping_is_a_piece_of_cake
+byte7:byte7@ip-172-31-37-131:/tmp$tar -xzvf byte7.tar.gz           byte7@ip-172-31-37-131:/tmp$ cat byte7.txt 
 byte8: vim carriage_return.txt
 byte9: cat /home/byte9/-        filepaths_are_handy
 byte10: sort names.txt | head -n 42
 byte11: sort births.txt | uniq -c | sort -nr | head -n 1
+byte12: which tuxsay
