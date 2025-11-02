@@ -16,3 +16,13 @@ byte5.c
 byte5@ip-172-31-37-131:/tmp/eirini$ gcc -o byte5 byte5.c
 byte5@ip-172-31-37-131:/tmp/eirini$ ./byte5
 Usage: ./byte5 <SDI>
+byte6: byte6@ip-172-31-37-131:/tmp$ unzip byte6.zip
+Archive:  byte6.zip
+replace byte6.txt? [y]es, [n]o, [A]ll, [N]one, [r]ename: a
+error:  invalid response [a]
+replace byte6.txt? [y]es, [n]o, [A]ll, [N]one, [r]ename: A
+ extracting: byte6.txt
+byte6@ip-172-31-37-131:/tmp$ ./byte6.txt
+-bash: ./byte6.txt: Permission denied
+byte6@ip-172-31-37-131:/tmp$ cat byte6.txt
+unzipping_is_a_piece_of_cake
