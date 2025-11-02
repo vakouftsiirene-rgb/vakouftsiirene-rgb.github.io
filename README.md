@@ -26,3 +26,4 @@ byte7@ip-172-31-37-131:/tmp$ cat byte7.txt
 tar_jokes_cant_stick 
 byte8: vim carriage_return.txt
 byte9: cat /home/byte9/-        filepaths_are_handy
+byte10: sort names.txt | head -n 42
